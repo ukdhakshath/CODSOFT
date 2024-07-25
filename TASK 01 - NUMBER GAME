@@ -1,5 +1,5 @@
 // TASK 01
-
+package TASK01;
 import java.util.Random;
 import java.util.Scanner;
 
